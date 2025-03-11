@@ -25,3 +25,5 @@ int main()
     TampilData();
     
 }
+
+//always be active
