@@ -25,13 +25,3 @@ int main()
     TampilData();
     
 }
-
-//always be active
-
-
-//sdfinesifjiesfji
-
-
-//sfinsifnsifcisidnini
-
-//sfnusnfuewf
